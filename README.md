@@ -1,0 +1,1 @@
+This is a sample assessment from MDN to apply CSS to html.
